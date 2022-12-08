@@ -1,0 +1,4 @@
+- Hi, I’m @WindBreaker123
+- I’m interested in making websites and web based games
+- I’m currently learning web development (JS, CSS, HTML)
+- Reach me at windbreakerdev@gmail.com
